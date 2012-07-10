@@ -1,0 +1,7 @@
+--- a/bin/statsd
++++ b/bin/statsd
+@@ -1,2 +1,2 @@
+ #!/usr/bin/env node
+-require('./../stats.js');
+\ No newline at end of file
++require('statsd/stats.js');
