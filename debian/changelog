@@ -1,3 +1,15 @@
+statsd (0.0.4-1) UNRELEASED; urgency=low
+
+  * Add missing debhelper to Build-Depends
+  * Depends on misc:Depends
+  * LSB compliant init script
+  * Install README.md
+  * Bump compat to 8 and Standards-Version to 3.9.3
+  * Remove upstart scripts
+  * Set source format to '3.0 (quilt)'
+
+ -- Frederic Junod <frederic.junod@camptocamp.com>  Tue, 10 Jul 2012 09:42:21 +0200
+
 statsd (0.0.3) unstable; urgency=low
 
   * removed rdio references from init scripts and config
