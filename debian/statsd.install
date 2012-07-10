@@ -3,4 +3,3 @@ config.js               usr/lib/nodejs/statsd/
 backends/*.js           usr/lib/nodejs/statsd/backends/
 debian/localConfig.js   etc/statsd/
 bin/statsd              usr/bin/
-
