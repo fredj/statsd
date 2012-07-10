@@ -1,4 +1,5 @@
-stats.js	/usr/share/statsd
-config.js	/usr/share/statsd
-backends/*.js  /usr/share/statsd/backends
-debian/localConfig.js	/etc/statsd
+stats.js                usr/lib/nodejs/statsd/
+config.js               usr/lib/nodejs/statsd/
+backends/*.js           usr/lib/nodejs/statsd/backends/
+debian/localConfig.js   etc/statsd/
+bin/statsd              usr/bin/
